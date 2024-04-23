@@ -1,0 +1,27 @@
+/* h1 {
+    background-color: aqua;
+    display: inline;
+}
+
+span {
+    background-color: yellowgreen;
+    display: block;
+} */
+
+span {
+    background-color: blue;
+    margin: 50px;
+    padding: 100px
+}
+
+div {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 10px dotted black;
+    display: inline-block;
+}
+
+#two {
+    display: none;
+}

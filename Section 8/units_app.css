@@ -1,0 +1,39 @@
+section {
+    background-color: yellowgreen;
+    width: 400px;
+    height: 400px;
+}
+
+div {
+    height: 80%;
+    width: 20%;
+    background-color: violet;
+}
+
+h2 {
+    font-size: 2em;
+    padding-left: 1em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+article {
+    font-size: 40px;
+}
+
+button {
+    font-size: 1em;
+    padding: 0 1em;
+    border-radius: 0.5em;
+    background-color: azure;
+}
+
+#ems li {
+    font-size: 2em;
+}
+
+#rems li {
+    font-size: 2rem;
+}

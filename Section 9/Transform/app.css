@@ -1,0 +1,27 @@
+h1 {
+    background-color: yellowgreen;
+    border: 5px solid red;
+    color: violet;
+    width: 300px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+h1:nth-of-type(2n) {
+    background-color: blueviolet;
+    transform: rotate(45deg);
+}
+
+h1:nth-of-type(3n) {
+    background-color: brown;
+    transform: scale(2);
+}
+
+h1:nth-of-type(4n) {
+    background-color: green;
+    transform: translate(200px);
+}
+
+section {
+    transform: scale(2);
+}
